@@ -13,3 +13,7 @@ decorations = "none"
 [window.padding]
 x = 7
 y = 0
+
+[shell]
+program = "/opt/homebrew/bin/bash"
+args = ["-l"]
